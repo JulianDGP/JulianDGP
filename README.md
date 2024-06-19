@@ -1,18 +1,16 @@
 ## Hi there 👋
 
-<!--
-**JulianDGP/JulianDGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julian, a passionate developer specializing in building applications with Spring and Angular. Currently, I'm expanding my skill set by learning AWS to enhance my cloud computing capabilities.
 
-Here are some ideas to get you started:
-
+### My Tech Stack
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm learning about
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Contact Me
+- 📫 How to reach me: juliandgp@hotmail.com
+- 💬 Ask me about: Spring, Angular, AWS
+
+Feel free to check out my repositories to see what I'm working on!
