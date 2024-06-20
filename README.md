@@ -15,7 +15,7 @@ I'm a systems engineer and a passionate developer specializing in building appli
 ### I'm learning about
 [![Learning](https://skillicons.dev/icons?i=aws,kubernetes,linux&perline=3)](https://skillicons.dev)
 ### Contact Me
-- 📫 How to reach me: juliandgp@hotmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/julian-david-gomez/
 - 💬 Ask me about: Spring, Angular, AWS
 
 Feel free to check out my repositories to see what I'm working on!
