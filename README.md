@@ -13,7 +13,7 @@ I'm a systems engineer and a passionate developer specializing in building appli
 ![JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 
 ### I'm learning about
-[![Learning](https://skillicons.dev/icons?i=aws,kubernetes,tensorflow,linux&perline=3)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,kubernetes,tensorflow,linux&perline=4)](https://skillicons.dev)
 ### Contact Me
 - 📫 How to reach me: https://www.linkedin.com/in/julian-david-gomez/
 - 💬 Ask me about: Spring, Angular, AWS
