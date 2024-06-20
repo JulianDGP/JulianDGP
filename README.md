@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Julian, a passionate developer specializing in building applications with Spring and Angular. Currently, I'm expanding my skill set by learning AWS to enhance my cloud computing capabilities.
+###I'm Julian, a passionate developer specializing in building applications with Spring and Angular. Currently, I'm expanding my skill set by learning AWS to enhance my cloud computing capabilities.
 
 ### My Tech Stack is
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
