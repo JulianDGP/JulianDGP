@@ -13,7 +13,7 @@ I'm a passionate developer specializing in building applications with Spring and
 ![JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 
 ### I'm learning about
-[![AWS](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws,kubernetes&perline=3)](https://skillicons.dev)
 ### Contact Me
 - 📫 How to reach me: juliandgp@hotmail.com
 - 💬 Ask me about: Spring, Angular, AWS
