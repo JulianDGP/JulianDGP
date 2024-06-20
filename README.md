@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate developer specializing in building applications with Spring and Angular. Currently, I'm expanding my skill set by learning AWS to enhance my cloud computing capabilities.
+I'm a systems engineer and a passionate developer specializing in building applications with Spring and Angular. Currently, I'm expanding my skill set by learning AWS to enhance my cloud computing capabilities.
 
 ### My Tech Stack is
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
