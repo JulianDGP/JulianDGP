@@ -1,4 +1,4 @@
-## Hi there ![Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Julian Gomez.
+# Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hand" width="30" height="30"> My name is Julian Gomez.
 I'm a systems engineer and a passionate developer specializing in building applications with Spring and Angular.
 
 Currently, I'm expanding my skill set by learning AWS to enhance my cloud computing capabilities.
@@ -13,8 +13,8 @@ Currently, I'm expanding my skill set by learning AWS to enhance my cloud comput
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="54" height="54" alt="Docker" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="54" height="54" alt="postgresql" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="54" height="54" alt="mysql" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="54" height="54" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="54" height="54" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="54" height="54" alt="Python" /></a>
 </p>
 
 ### Other tools that I use
@@ -32,7 +32,7 @@ Currently, I'm expanding my skill set by learning AWS to enhance my cloud comput
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="54" height="54" alt="Linux" /></a>
 </p>
 
-### Contact Me
+## Contact Me
 - 📫 How to reach me: https://www.linkedin.com/in/julian-david-gomez/
 - 💬 Ask me about: Spring, Angular, AWS
 
