@@ -26,14 +26,15 @@ Currently, I'm expanding my skill set by learning AWS to enhance my cloud comput
 
 ## I'm learning about
 <p>
-<a href="https://docs.aws.amazon.com/?nc2=h_ql_doc_do" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="54" height="54" alt="AWS" /></a>
-<a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" width="54" height="54" alt="Kubernetes" /></a>
+<a href="https://docs.aws.amazon.com/?nc2=h_ql_doc_do" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="54" height="54" alt="AWS"/></a>
+<a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" width="54" height="54" alt="Kubernetes"/></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" width="54" height="54" alt="Jenkins /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="54" height="54" alt="TensorFlow" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="54" height="54" alt="Linux" /></a>
 </p>
 
 ## Contact Me
 - 📫 How to reach me: https://www.linkedin.com/in/julian-david-gomez/
-- 💬 Ask me about: Spring, Angular, AWS
+- 💬 Ask me about: Spring, Angular, AI, AWS, CI/CD.
 
 Feel free to check out my repositories to see what I'm working on!
