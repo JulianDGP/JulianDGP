@@ -20,6 +20,7 @@ Currently, I'm expanding my skill set by learning AWS to enhance my cloud comput
 ### Other tools that I use
 <p>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="54" height="54" alt="IntelliJ" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="54" height="54" alt="Figma" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="54" height="54" alt="Postman" /></a>
 <a href="https://docs.jupyter.org/en/latest/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="54" height="54" alt="Jupyter Notebook" /></a>
 </p>
