@@ -3,7 +3,7 @@ I'm a systems engineer and a passionate developer specializing in building appli
 
 Currently, I'm expanding my skill set by learning AWS to enhance my cloud computing capabilities.
 
-### My Full Tech Stack is
+### My Favorite Tech Stack is
 <p align="left">
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="54" height="54" alt="" /></a> -->
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="54" height="54" alt="Springboot"/></a>
@@ -37,5 +37,8 @@ Currently, I'm expanding my skill set by learning AWS to enhance my cloud comput
 ## Contact Me
 - 📫 How to reach me: https://www.linkedin.com/in/julian-david-gomez/
 - 💬 Ask me about: Spring, Angular, AI, AWS, CI/CD.
+
+## Analytics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliandgp&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to check out my repositories to see what I'm working on!
