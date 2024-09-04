@@ -38,10 +38,10 @@ Currently, I'm expanding my skill set by learning AWS to enhance my cloud comput
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/JulianDGP?tab=repositories">
-    <img height="120" src="https://github-readme-stats.vercel.app/api?username=juliandgp&include_all_commits=true&rank_icon=github&show_icons=true&hide=contribs&card_width=160" style="max-width: 100%; margin: 10px;" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=juliandgp&include_all_commits=true&rank_icon=github&show_icons=true&hide=contribs&card_width=160" style="max-width: 100%; margin: 10px;" />
   </a>
   <a href="https://github.com/JulianDGP?tab=repositories">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandgp&langs_count=12&layout=compact&card_width=600" style="max-width: 100%; margin: 10px;" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandgp&langs_count=12&layout=compact&card_width=600" style="max-width: 100%; margin: 10px;" />
   </a>
 </div>
 
