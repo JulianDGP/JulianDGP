@@ -34,11 +34,18 @@ Currently, I'm expanding my skill set by learning AWS to enhance my cloud comput
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="54" height="54" alt="Linux" /></a>
 </p>
 
+## Analytics
+
+<a href="https://github.com/JulianDGP?tab=repositories">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=juliandgp&include_all_commits=true&rank_icon=github&show_icons=true&hide=contribs&card_width=160" />
+</a>
+<a href="https://github.com/JulianDGP?tab=repositories">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandgp&langs_count=12&layout=compact&card_width=600" />
+</a>
+
+
 ## Contact Me
 - 📫 How to reach me: https://www.linkedin.com/in/julian-david-gomez/
 - 💬 Ask me about: Spring, Angular, AI, AWS, CI/CD.
-
-## Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliandgp&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to check out my repositories to see what I'm working on!
