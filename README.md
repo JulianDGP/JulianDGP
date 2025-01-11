@@ -1,5 +1,5 @@
 # Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hand" width="30" height="30"> My name is Julian Gomez.
-I'm a systems engineer and a passionate developer specializing in building applications with Spring and Angular.
+I'm a systems engineer and AWS Developer associate, I'm a passionate developer specializing in building applications with Spring and Angular.
 
 Currently, I'm expanding my skill set by learning AWS to enhance my cloud computing capabilities.
 
