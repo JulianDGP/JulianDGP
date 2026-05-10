@@ -21,7 +21,7 @@ Currently, I'm expanding my skill set by learning AWS to enhance my cloud comput
 ## I'm learning about
 <p align="left">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=datadog,jenkins.kubernetes,tensorflow,linux" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=datadog,jenkins,kubernetes,tensorflow,linux" />
   </a>
 </p>
 
