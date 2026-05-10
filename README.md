@@ -13,7 +13,7 @@ Currently, I'm expanding my skill set by learning AWS to enhance my cloud comput
 ### Other tools that I use
 <p align="left">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,figma" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,figma,claude" />
   </a>
   <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" width="48" height="48" alt="Bruno" />
 </p>
