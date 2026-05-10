@@ -5,22 +5,23 @@ Currently, I'm expanding my skill set by learning AWS to enhance my cloud comput
 
 ### My Favorite Tech Stack is
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,angular,ts,js,docker,postgres,mysql,java,py" />
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,angular,ts,js,docker,postgres,mysql,java,py,aws,go" />
   </a>
 </p>
 
 ### Other tools that I use
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,figma,postman" />
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,figma" />
   </a>
+  <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" width="48" height="48" alt="Bruno" />
 </p>
 
 ## I'm learning about
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,jenkins,tensorflow,linux" />
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes,jenkins,tensorflow,linux,datadog" />
   </a>
 </p>
 
